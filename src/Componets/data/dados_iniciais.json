@@ -1,183 +1,187 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Fimes de terror",
+      "link": "https://www.youtube.com",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Para roer as unhas",
+        "url": "https://www.youtube.com/results?search_query=filmes+de+terror"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "O Espetacular Homem Aranha",
+          "url": "https://www.youtube.com/watch?v=bUiVq1KL_rg"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "O Chupa Cabra",
+          "url": "https://www.youtube.com/watch?v=vVtCpRCnzcs"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Perfume A História de um Assassino",
+          "url": "https://www.youtube.com/watch?v=x25hEMNe1Vg"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Pedido de Amizade",
+          "url": "https://www.youtube.com/watch?v=TQXqNCCnpkI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "A ilha do Diabo",
+          "url": "https://www.youtube.com/watch?v=JLQKT1iEA4c"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "A Maldição da Casa do Lago",
+          "url": "https://www.youtube.com/watch?v=khKB-x60EXQ"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Halloween - A Lenda de Jack",
+          "url": "https://www.youtube.com/watch?v=VmMoC0VDvVE"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Aprisionados",
+          "url": "https://www.youtube.com/watch?v=7b9-sVaEN30"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Ação",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "Fimes para distrair",
+        "url": "https://www.youtube.com/results?search_query=filmes+de+a%C3%A7%C3%A3o"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "A Justiceira",
+          "url": "https://www.youtube.com/watch?v=ou_jea3czo8"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Assalto ao Banco Central",
+          "url": "https://www.youtube.com/watch?v=OjNIrfnSd3U"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "A Cabana",
+          "url": "https://www.youtube.com/watch?v=h19b7gD6YA8"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "O Agente",
+          "url": "https://www.youtube.com/watch?v=CBhaedc5pvU"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "Falcão campeão dos campeões",
+          "url": "https://www.youtube.com/watch?v=HrNim3tKHYQ"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Comédia",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Filmes para dar risada",
+        "url": "https://www.youtube.com/results?search_query=filmes+de+aventura+e+comedia&sp=eAE%253D"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Esqueceram de mim",
+          "url": "https://www.youtube.com/watch?v=kaom2g_2v1o"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Anjos da lei 2",
+          "url": "https://www.youtube.com/watch?v=rdloedJV48E"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Deadpool 2",
+          "url": "https://www.youtube.com/watch?v=MiBZNToIHyE"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Missao quase impossivel",
+          "url": "https://www.youtube.com/watch?v=SD_CxW-NRfM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Romatico",
       "cor": "orange",
+      "link_extra": {
+        "text": "Filmes para assistir com 'ela/ele'",
+        "url": "https://www.youtube.com/results?search_query=filmes+de+aventura+romance+e+drama"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Para sempre minha garota",
+          "url": "https://www.youtube.com/watch?v=-LBL-cybicI"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Com quem será?",
+          "url": "https://www.youtube.com/watch?v=WKvVMdH9Stk"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "2:22 Encontro marcado",
+          "url": "https://www.youtube.com/watch?v=3dMTe8dH9yQ"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Através do fogo",
+          "url": "https://www.youtube.com/watch?v=mbpN9cFp4Ok"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Suspense",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "De tirar o folego!",
+        "url": "https://www.youtube.com/results?search_query=filmes+suspense"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Fanático",
+          "url": "https://www.youtube.com/watch?v=bgIDZ4unDtc"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "A casa silenciosa",
+          "url": "https://www.youtube.com/watch?v=pyHvp2P_fMM"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Kristy",
+          "url": "https://www.youtube.com/watch?v=qDBMHH2i7aM"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "No limite do perigo",
+          "url": "https://www.youtube.com/watch?v=rY_RHIpte2E"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "O caseiro",
+          "url": "https://www.youtube.com/watch?v=TyKUrf2MrHI"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Desenho",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "Diversão para toda familia",
+        "url": "https://www.youtube.com/results?search_query=filmes+anima%C3%A7%C3%A3o"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "UglyDolls",
+          "url": "https://www.youtube.com/watch?v=txstVzxMD9c"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "Sapatinho Vermelho e os Sete Anões",
+          "url": "https://www.youtube.com/watch?v=EOa5zygCZKM"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Hotel Transilvânia",
+          "url": "https://www.youtube.com/watch?v=K-5p7NZ78Vo"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "O Expresso Polar",
+          "url": "https://www.youtube.com/watch?v=u1AcHs8y_Z4"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": " Era do Gelo: O Big Bang",
+          "url": "https://www.youtube.com/watch?v=l0m-CxnHI6o"
         }
       ]
     }

@@ -1,9 +1,9 @@
 import React from 'react';
-import Menu from './Componets/Menu';
-import dadosInicias from './Componets/data/dados_iniciais.json';
-import BannerMain from './Componets/BannerMain';
-import Carousel from './Componets/Carousel';
-import Footer from './Componets/Footer';
+import Menu from '../../Componets/Menu';
+import dadosInicias from '../../Componets/data/dados_iniciais.json';
+import BannerMain from '../../Componets/BannerMain';
+import Carousel from '../../Componets/Carousel';
+import Footer from '../../Componets/Footer';
 
 function App() {
   return (
@@ -14,7 +14,7 @@ function App() {
       <BannerMain
       videoTitle={dadosInicias.categorias[0].videos[0].titulo}
       url={dadosInicias.categorias[0].videos[0].url}
-      videoDescription={"O que é front-end?"} />
+      videoDescription={"Filmes direto do youtube!"} />
 
       <Carousel
       ignoreFirstVideo
@@ -28,7 +28,15 @@ function App() {
 
       <Carousel
        category={dadosInicias.categorias[3]}/>
+
+      <Carousel
+       category={dadosInicias.categorias[4]}/>
+
+      <Carousel
+       category={dadosInicias.categorias[5]}/>
       </div>
+
+      <Footer />
     </nav>
   );
 }
